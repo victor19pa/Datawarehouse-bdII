@@ -2,6 +2,8 @@ PROYECTO BASE DE DATOS II - UNIVERSIDAD NACIONAL AUTONOMA DE HONDURAS
 CREACION DATAWAREHOUSE 
 
 *MAS INFORMACION EN INFORME
+base de datos de prueba utilizada
+Microsoft Adventure Works 2014
 
 # Datawarehouse-bdII
 
